@@ -1,0 +1,204 @@
+{
+  "timeSlotData": {
+    "screenshots": [
+      {
+        "id": "9a5a7c64-e418-419a-99cc-1b198b344584",
+        "localURL": "c0794965-ac32-4c75-af84-5f2d97715082.png",
+        "liveURL": "https://invodesk-dev.s3.us-east-1.amazonaws.com/f8531d74-7680-4742-b7bf-d83e90af12d6.png",
+        "name": "Entire screen",
+        "displayId": "screen:2077750265:0",
+        "dimensions": "1510X944",
+        "capturedAt": 1667621020000
+      },
+      {
+        "id": "9a5a7c64-e418-419a-99cc-1b198b344574",
+        "localURL": "c0794965-ac32-4c75-af84-5f2d97715082.png",
+        "liveURL": "https://invodesk-dev.s3.us-east-1.amazonaws.com/f8531d74-7680-4742-b7bf-d83e90af12d6.png",
+        "name": "Entire screen",
+        "displayId": "screen:2077750265:1",
+        "dimensions": "1510X944",
+        "capturedAt": 1667621620000
+      },
+      {
+        "id": "9a5a7c64-e418-419a-99cc-1b198b6784574",
+        "localURL": "c0794965-ac32-4c75-af84-5f2d97715082.png",
+        "liveURL": "https://invodesk-dev.s3.us-east-1.amazonaws.com/f8531d74-7680-4742-b7bf-d83e90af12d6.png",
+        "name": "Entire screen",
+        "displayId": "screen:2077750665:1",
+        "dimensions": "1510X944",
+        "capturedAt": 1667622220000
+      },
+      {
+        "id": "9a5a7c64-e418-419a-99cc-1b198b6784575",
+        "localURL": "c0794965-ac32-4c75-af84-5f2d97715082.png",
+        "liveURL": "https://invodesk-dev.s3.us-east-1.amazonaws.com/f8531d74-7680-4742-b7bf-d83e90af12d6.png",
+        "name": "Entire screen",
+        "displayId": "screen:2077750665:2",
+        "dimensions": "1510X944",
+        "capturedAt": 1667622220000
+      },
+      {
+        "id": "9a5a7c64-e418-419a-99cc-1b198b6784576",
+        "localURL": "c0794965-ac32-4c75-af84-5f2d97715082.png",
+        "liveURL": "https://invodesk-dev.s3.us-east-1.amazonaws.com/f8531d74-7680-4742-b7bf-d83e90af12d6.png",
+        "name": "Entire screen",
+        "displayId": "screen:2077750665:1",
+        "dimensions": "1510X944",
+        "capturedAt": 1667622820000
+      },
+      {
+        "id": "9a5a7c64-e418-419a-99cc-1b198b6784578",
+        "localURL": "c0794965-ac32-4c75-af84-5f2d97715082.png",
+        "liveURL": "https://invodesk-dev.s3.us-east-1.amazonaws.com/f8531d74-7680-4742-b7bf-d83e90af12d6.png",
+        "name": "Entire screen",
+        "displayId": "screen:2077750665:1",
+        "dimensions": "1510X944",
+        "capturedAt": 1667623513000
+      },
+      {
+        "id": "9a5a7c64-e418-419a-99cc-1b198b6784579",
+        "localURL": "c0794965-ac32-4c75-af84-5f2d97715082.png",
+        "liveURL": "https://invodesk-dev.s3.us-east-1.amazonaws.com/f8531d74-7680-4742-b7bf-d83e90af12d6.png",
+        "name": "Entire screen",
+        "displayId": "screen:2077750665:2",
+        "dimensions": "1510X944",
+        "capturedAt": 1667623513000
+      },
+      {
+        "id": "9a5a7c64-e418-419a-99cc-1b198b6784589",
+        "localURL": "c0794965-ac32-4c75-af84-5f2d97715082.png",
+        "liveURL": "https://invodesk-dev.s3.us-east-1.amazonaws.com/f8531d74-7680-4742-b7bf-d83e90af12d6.png",
+        "name": "Entire screen",
+        "displayId": "screen:2077750665:2",
+        "dimensions": "1510X944",
+        "capturedAt": 1667624113000
+      }
+    ],
+    "minutePulses": [
+      {
+        "id": "1b97c893-7c12-4a75-9095-2417a50d382f",
+        "minuteTime": 1667620993000,
+        "clicks": 6,
+        "keystrokes": 16,
+        "isActive": true,
+        "isSynced": false,
+        "idleTime": false
+      },
+      {
+        "id": "615c93c7-ab76-45e9-9b44-af7a26830499",
+        "minuteTime": 1667621053000,
+        "clicks": 17,
+        "keystrokes": 27,
+        "isActive": false,
+        "isSynced": false,
+        "idleTime": true
+      },
+      {
+        "id": "1b97c893-7c12-4a75-9095-2417a50d381f",
+        "minuteTime": 1667621113000,
+        "clicks": 6,
+        "keystrokes": 10,
+        "isActive": true,
+        "isSynced": false,
+        "idleTime": false
+      },
+      {
+        "id": "1b97c893-7c12-4a75-9095-2417a50d383f",
+        "minuteTime": 1667621173000,
+        "clicks": 6,
+        "keystrokes": 16,
+        "isActive": true,
+        "isSynced": false,
+        "idleTime": false
+      },
+      {
+        "id": "1b97c893-7c12-4a75-9095-2417a50d383f",
+        "minuteTime": 1667621413000,
+        "clicks": 6,
+        "keystrokes": 16,
+        "isActive": true,
+        "isSynced": false,
+        "idleTime": false
+      },
+      {
+        "id": "1b97c893-7c12-4a75-9095-2417a50d384f",
+        "minuteTime": 1667621533000,
+        "clicks": 46,
+        "keystrokes": 16,
+        "isActive": true,
+        "isSynced": false,
+        "idleTime": false
+      },
+      {
+        "id": "1b97c893-7c12-4a75-9095-2417a50d385f",
+        "minuteTime": 1667621713000,
+        "clicks": 6,
+        "keystrokes": 16,
+        "isActive": true,
+        "isSynced": false,
+        "idleTime": false
+      },
+      {
+        "id": "1b97c893-7c12-4a75-9095-2417a50d386f",
+        "minuteTime": 1667671920000,
+        "clicks": 6,
+        "keystrokes": 16,
+        "isActive": true,
+        "isSynced": false,
+        "idleTime": false
+      },
+      {
+        "id": "1b97c893-7c12-4a75-9095-2417a50d387f",
+        "minuteTime": 1667622313000,
+        "clicks": 6,
+        "keystrokes": 16,
+        "isActive": true,
+        "isSynced": false,
+        "idleTime": false
+      },
+      {
+        "id": "1b97c893-7c12-4a75-9095-2417a50d388f",
+        "minuteTime": 1667622913000,
+        "clicks": 6,
+        "keystrokes": 16,
+        "isActive": true,
+        "isSynced": false,
+        "idleTime": false
+      }
+    ],
+    "trackItems": [
+      {
+        "localId": "dd7ea296-a9ff-4fef-b0ea-56461a42be68",
+        "windowTitle": "Electron",
+        "windowUrl": null,
+        "startedAt": 1667670300000,
+        "endedAt": 1667670360000,
+        "category": "IDLE"
+      },
+      {
+        "localId": "13cf0a04-8bff-4bd5-aa07-39e69d24bbee",
+        "windowTitle": "InvoDesk",
+        "windowUrl": null,
+        "startedAt": 1667670300000,
+        "endedAt": 1667670360000,
+        "category": "PRODUCTIVE"
+      },
+      {
+        "localId": "807531b3-b483-478d-b50d-6f65b7fb6fcb",
+        "windowTitle": "invodesk-stats.test/screenshots",
+        "windowUrl": "http://invodesk-stats.test/screenshots",
+        "startedAt": 1667676060000,
+        "endedAt": 1667676300000,
+        "category": "PRODUCTIVE"
+      },
+      {
+        "localId": "60eceaad-cbb0-4648-9c39-1827071226d3",
+        "windowTitle": "Electron",
+        "windowUrl": null,
+        "startedAt": 1667676060000,
+        "endedAt": 1667676300000,
+        "category": "IDLE"
+      }
+    ]
+  }
+}
